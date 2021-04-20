@@ -1,2 +1,2 @@
 # graphql-insta-example
-Simples aplicação feita com Apollo Server no Capuccino com a Balle
+Application made to show the basic concepts of GraphQL with Apollo Server.
