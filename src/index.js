@@ -16,7 +16,6 @@ const resolvers = {
 
   Mutation: {
     createUser: (_, args) => {
-      console.log(args);
       const id = users.length + 1;
       const user = { id: id.toString(), ...args.user };
       users = [...users, user];
