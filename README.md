@@ -1,7 +1,7 @@
 # graphql-insta-example
 Application made to show the basic concepts of GraphQL with Apollo Server.
 
-## Run
+## Getting Started
 
 - Run `npm install `
 - Run `npm run dev`
